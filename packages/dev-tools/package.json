@@ -1,6 +1,6 @@
 {
   "name": "@expo/dev-tools",
-  "version": "0.2.18",
+  "version": "0.2.19-alpha.2+ce2eb2fb",
   "main": "build/server/index.js",
   "scripts": {
     "dev": "NODE_ENV=development node ./scripts/dev-server.js",
@@ -69,10 +69,10 @@
     "redux": "^3.7.2",
     "slugify": "^1.0.2",
     "velocity-react": "^1.4.1",
-    "xdl": "^52.0.0"
+    "xdl": "^52.0.1-alpha.2+ce2eb2fb"
   },
   "license": "MIT",
-  "gitHead": "5e6aab74774ccab6b22c4ece13c285022e04bff2",
+  "gitHead": "ce2eb2fb02eb5338c295db5f32f743ed6d3f17d9",
   "publishConfig": {
     "access": "public"
   }
